@@ -43,7 +43,7 @@ Mapeamento conceitual e consolidação de arquitetura, segurança e alta disponi
 * Desenvolvimento Full Stack de sistema web escalável voltado à simulação de cenários corporativos para avaliação acadêmica.
 * Modelagem de banco de dados e construção de serviços RESTful robustos, realizando a gestão de regras de negócio complexas com PostgreSQL.
 
-### 💰 Projeto Profissional - Cloud Budget Manager | 02/2026
+### 💰 Projeto Pessoal - Cloud Budget Manager | 02/2026
 * Desenvolvimento de aplicação em arquitetura de nuvem (Cloud/Serverless) focada na gestão financeira pessoal, aplicando conceitos avançados de arquitetura de software, desacoplamento de serviços, processamento assíncrono e segurança com autenticação JWT.
 
 ### 🧪 QA & Quality Assurance - SauceDemo
